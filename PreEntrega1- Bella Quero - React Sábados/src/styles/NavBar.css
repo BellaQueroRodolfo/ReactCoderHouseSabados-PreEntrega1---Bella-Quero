@@ -1,0 +1,16 @@
+.navbar {
+  background-color: black;
+  padding: 20px;
+}
+
+.navbar-item {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-item:hover {
+  color: red;
+}
